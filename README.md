@@ -1,7 +1,7 @@
 # knowledge-transfer
 
-## Angular intro
-##### Create simple 'html template driven' web form
+## Angular intro - Create simple 'html template driven' web form
+##### Demo1 illustrates sharing html templates across components via the selector as a tag element. 
 
 - create a new project
 - create user component
@@ -19,9 +19,8 @@
   * Ensure project loads up `ng serve -o`
 #### 4. Create user component
    * `ng g c user` 
-   *  Add user 'selector' tags to parent app.component.html which will demonstate how html can be shared across components. 
-#### 5. Create user model class 
-   * `ng g class user`
+   *  Add user 'selector' tags to parent app.component.html which will demonstate how html can be shared across components. Put <app-form></app-form> inside app.component.html template
+
 
 
 
