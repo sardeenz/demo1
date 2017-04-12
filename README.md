@@ -19,7 +19,7 @@
   * Ensure project loads up `ng serve -o`
 #### 4. Create user component
    * `ng g c user` 
-   *  Add user 'selector' tags to parent app.component.html which will demonstate how html can be shared across components. Put <app-form></app-form> inside app.component.html template
+   *  Add user 'selector' tags to parent app.component.html which will demonstate how html can be shared across components. Put `<app-form></app-form>` inside app.component.html template
 
 
 
