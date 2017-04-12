@@ -24,7 +24,7 @@
 
 - tips
    - use ng -v to check versions of cli
-   - remember that angular-cli is very different than angular/cli
+   - remember that @angular-cli is outdated and the new version is @angular/cli
    - be sure to be on angular-cli 1.0.0
    - refer to https://github.com/angular/angular-cli#updating-angular-cli to reinstall
 
