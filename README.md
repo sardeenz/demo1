@@ -16,7 +16,7 @@
   * `npm install -g @angular/cli`
 #### 3. Create new project
   * `ng new <project name>`
-  * Ensure project loads up `ng serve -o` (-o is for 'open')
+  * Ensure project loads up `ng serve -o` (-o is for 'open' which launches your browser at http://localhost:4200)
 #### 4. Create user component
    * `ng g c user` (shorthand for: `ng generate component user`)
    *  Add user 'selector' tags to parent app.component.html which will demonstate how html can be shared across components. Put `<app-form></app-form>` inside app.component.html template
