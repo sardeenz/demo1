@@ -21,6 +21,7 @@
    * `ng g c user` (shorthand for: `ng generate component user`)
    *  Add user 'selector' tags to parent app.component.html which will demonstate how html can be shared across components. Put `<app-form></app-form>` inside app.component.html template
 
+#### 5. Proceed to [lesson 2](https://github.com/sardeenz/demo2)
 
 - tips
    - use ng -v to check versions of cli
